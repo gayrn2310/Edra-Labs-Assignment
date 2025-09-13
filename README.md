@@ -1,6 +1,6 @@
 # Node.js based URL Shortener
 
-An Express.js-based API that lets you generate, update, access, delete, and analyze short aliases for long URLs, all while storing mappings and analytics in-memory.
+This is the URL Shortener problem statement (ps) provided by Edra Labs. It offers a RESTful API to generate, manage, and analyze short URLs using a Node.js and Express.js in-memory service.
 
 ---
 
