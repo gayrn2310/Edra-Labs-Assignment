@@ -1,6 +1,6 @@
 # Node.js based URL Shortener
 
-This is the URL Shortener problem statement (ps) provided by Edra Labs. It offers a RESTful API to generate, manage, and analyze short URLs using a Node.js and Express.js in-memory service.
+This is the URL Shortener problem statement provided by Edra Labs. It offers a RESTful API to generate, manage, and analyze short URLs using a Node.js and Express.js in-memory service.
 
 ---
 
